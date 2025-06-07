@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Portafolio de proyectos de Humberto Silva Baltazar" 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Humberto Silva Baltazar"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Humberto Silva Baltazar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Apasionado por las finanzas corporativas, la inteligencia artificial y la ciencia de datos, estudio Economía en la UNAM (6.º semestre) con un enfoque claro en aplicar la tecnología al mundo financiero. Me especializo en construir modelos financieros, proyectar variables macroeconómicas y automatizar procesos con Python y Excel. Utilizo machine learning para analizar riesgos, optimizar portafolios y crear visualizaciones que faciliten decisiones estratégicas. Mi objetivo es generar valor real en banca de inversión, asset management o fintech mediante soluciones basadas en datos, IA y pensamiento crítico."
+  location         : "Coyoacán - Ciudad de México, México"
+  email            : "betohsb0@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "betohsb0@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
